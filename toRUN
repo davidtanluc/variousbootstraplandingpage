@@ -4,3 +4,4 @@ git checkout -b gh-pages
 git status
 git add .
 git commit -m "first commit bootstrap landing page"
+git push origin gh-pages
