@@ -1,0 +1,6 @@
+
+git remote add origin https://github.com/davidtanluc/variousbootstraplandingpage.git
+git checkout -b gh-pages
+git status
+git add .
+git commit -m "first commit bootstrap landing page"
